@@ -11,7 +11,7 @@ setup(
     keywords        = ['mathematical', 'operations', 'addition', 'subtraction', 'multiplication', 'division'],
     install_requires= ['pytest'],
     classifiers     = [
-        'Development Status :: 2 - Planning',
+        'Development Status :: 1 - Planning',
         'Intended Audience :: Developers',
         'Topic :: Software Development :: Build Tools',
         'License :: OSI Approved :: MIT License',
