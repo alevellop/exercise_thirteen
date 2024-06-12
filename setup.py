@@ -4,6 +4,7 @@ setup(
     name            = 'exercise_thirteen',
     packages        = ['exercise_thirteen'],
     author          = 'alevellop',
+    url             = 'https://github.com/alevellop/exercise_thirteen',
     version         = '0.0.1',
     license         = 'MIT',
     description     = 'Library of simple mathematical operations',
